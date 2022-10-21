@@ -1,10 +1,10 @@
-# Appendix of Hyperparameter Optimization for AST Differencing
+# Appendix of `Hyperparameter Optimization for AST Differencing`
+
+In the following paper we present DAT: Diff Automated Tuning.
 
 ```
 @misc{dat,
-   author = {Martinez, Matias and Falleri, Jean-Rémy and Monperrus, Martin},
-  
-  keywords = {Software Engineering (cs.SE), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  author = {Martinez, Matias and Falleri, Jean-Rémy and Monperrus, Martin},
   
   title = {Hyperparameter Optimization for AST Differencing},
   
@@ -15,8 +15,8 @@
   doi = {10.48550/ARXIV.2011.10268},
   
   url = {https://arxiv.org/abs/2011.10268},
-  
-
+   
+  keywords = {Software Engineering (cs.SE), FOS: Computer and information sciences, FOS: Computer and information sciences},
 }
 
 ```

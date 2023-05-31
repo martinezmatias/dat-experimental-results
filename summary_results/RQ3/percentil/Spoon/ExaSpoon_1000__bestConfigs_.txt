@@ -1,0 +1,5 @@
+ClassicGumtree-bu_minsim-0.1-bu_minsize-400-st_minprio-1-st_priocalc-size
+ClassicGumtree-bu_minsim-0.1-bu_minsize-300-st_minprio-1-st_priocalc-size
+ClassicGumtree-bu_minsim-0.1-bu_minsize-200-st_minprio-1-st_priocalc-size
+ClassicGumtree-bu_minsim-0.1-bu_minsize-800-st_minprio-1-st_priocalc-size
+ClassicGumtree-bu_minsim-0.1-bu_minsize-600-st_minprio-1-st_priocalc-size

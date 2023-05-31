@@ -1,0 +1,1710 @@
+Hello from TPE Python /Users/matias/develop/gt-tuning/git-code-gpgt/target/test-classes:/Users/matias/develop/gt-tuning/git-code-gpgt/target/classes:/Users/matias/.m2/repository/junit/junit/4.12/junit-4.12.jar:/Users/matias/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/Users/matias/.m2/repository/com/github/gumtreediff/core/3.0.0/core-3.0.0.jar:/Users/matias/.m2/repository/org/atteo/classindex/classindex/3.10/classindex-3.10.jar:/Users/matias/.m2/repository/org/jgrapht/jgrapht-core/1.5.1/jgrapht-core-1.5.1.jar:/Users/matias/.m2/repository/org/jheaps/jheaps/0.13/jheaps-0.13.jar:/Users/matias/.m2/repository/com/github/gumtreediff/client/3.0.0/client-3.0.0.jar:/Users/matias/.m2/repository/com/github/gumtreediff/gen.jdt/3.0.0/gen.jdt-3.0.0.jar:/Users/matias/.m2/repository/com/github/gumtreediff/gen.javaparser/3.0.0/gen.javaparser-3.0.0.jar:/Users/matias/.m2/repository/com/github/javaparser/javaparser-symbol-solver-core/3.18.0/javaparser-symbol-solver-core-3.18.0.jar:/Users/matias/.m2/repository/com/github/javaparser/javaparser-core/3.18.0/javaparser-core-3.18.0.jar:/Users/matias/.m2/repository/org/javassist/javassist/3.27.0-GA/javassist-3.27.0-GA.jar:/Users/matias/.m2/repository/fr/inria/gforge/spoon/spoon-core/9.0.0/spoon-core-9.0.0.jar:/Users/matias/.m2/repository/com/martiansoftware/jsap/2.1/jsap-2.1.jar:/Users/matias/.m2/repository/org/slf4j/slf4j-api/1.7.30/slf4j-api-1.7.30.jar:/Users/matias/.m2/repository/commons-io/commons-io/2.8.0/commons-io-2.8.0.jar:/Users/matias/.m2/repository/org/apache/maven/maven-model/3.6.3/maven-model-3.6.3.jar:/Users/matias/.m2/repository/org/codehaus/plexus/plexus-utils/3.2.1/plexus-utils-3.2.1.jar:/Users/matias/.m2/repository/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar:/Users/matias/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.12.2/jackson-databind-2.12.2.jar:/Users/matias/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.12.2/jackson-annotations-2.12.2.jar:/Users/matias/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.12.2/jackson-core-2.12.2.jar:/Users/matias/.m2/repository/org/apache/commons/commons-compress/1.20/commons-compress-1.20.jar:/Users/matias/.m2/repository/org/apache/maven/shared/maven-invoker/3.1.0/maven-invoker-3.1.0.jar:/Users/matias/.m2/repository/org/apache/maven/shared/maven-shared-utils/3.3.3/maven-shared-utils-3.3.3.jar:/Users/matias/.m2/repository/com/google/code/gson/gson/2.8.5/gson-2.8.5.jar:/Users/matias/.m2/repository/io/jenetics/jenetics/5.2.0/jenetics-5.2.0.jar:/Users/matias/.m2/repository/info/picocli/picocli/4.3.2/picocli-4.3.2.jar:/Users/matias/.m2/repository/com/google/guava/guava/29.0-jre/guava-29.0-jre.jar:/Users/matias/.m2/repository/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar:/Users/matias/.m2/repository/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar:/Users/matias/.m2/repository/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar:/Users/matias/.m2/repository/org/checkerframework/checker-qual/2.11.1/checker-qual-2.11.1.jar:/Users/matias/.m2/repository/com/google/errorprone/error_prone_annotations/2.3.4/error_prone_annotations-2.3.4.jar:/Users/matias/.m2/repository/com/google/j2objc/j2objc-annotations/1.3/j2objc-annotations-1.3.jar:/Users/matias/.m2/repository/org/kohsuke/github-api/1.114/github-api-1.114.jar:/Users/matias/.m2/repository/org/rendersnake/rendersnake/1.9.0/rendersnake-1.9.0.jar:/Users/matias/.m2/repository/javax/servlet/servlet-api/2.4/servlet-api-2.4.jar:/Users/matias/.m2/repository/org/springframework/spring-webmvc/4.1.6.RELEASE/spring-webmvc-4.1.6.RELEASE.jar:/Users/matias/.m2/repository/org/springframework/spring-beans/4.1.6.RELEASE/spring-beans-4.1.6.RELEASE.jar:/Users/matias/.m2/repository/org/springframework/spring-context/4.1.6.RELEASE/spring-context-4.1.6.RELEASE.jar:/Users/matias/.m2/repository/org/springframework/spring-aop/4.1.6.RELEASE/spring-aop-4.1.6.RELEASE.jar:/Users/matias/.m2/repository/org/springframework/spring-core/4.1.6.RELEASE/spring-core-4.1.6.RELEASE.jar:/Users/matias/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/Users/matias/.m2/repository/org/springframework/spring-expression/4.1.6.RELEASE/spring-expression-4.1.6.RELEASE.jar:/Users/matias/.m2/repository/org/springframework/spring-web/4.1.6.RELEASE/spring-web-4.1.6.RELEASE.jar:/Users/matias/.m2/repository/net/sf/jtidy/jtidy/r938/jtidy-r938.jar:/Users/matias/.m2/repository/com/google/inject/guice/3.0/guice-3.0.jar:/Users/matias/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar:/Users/matias/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar:/Users/matias/.m2/repository/io/github/java-diff-utils/java-diff-utils/4.5/java-diff-utils-4.5.jar:/Users/matias/.m2/repository/org/eclipse/jdt/org.eclipse.jdt.core/3.23.0/org.eclipse.jdt.core-3.23.0.jar:/Users/matias/.m2/repository/org/eclipse/platform/org.eclipse.core.resources/3.18.200/org.eclipse.core.resources-3.18.200.jar:/Users/matias/.m2/repository/org/eclipse/platform/org.eclipse.core.expressions/3.8.200/org.eclipse.core.expressions-3.8.200.jar:/Users/matias/.m2/repository/org/eclipse/platform/org.eclipse.osgi/3.18.300/org.eclipse.osgi-3.18.300.jar:/Users/matias/.m2/repository/org/eclipse/platform/org.eclipse.core.runtime/3.26.100/org.eclipse.core.runtime-3.26.100.jar:/Users/matias/.m2/repository/org/eclipse/platform/org.eclipse.equinox.common/3.17.0/org.eclipse.equinox.common-3.17.0.jar:/Users/matias/.m2/repository/org/eclipse/platform/org.eclipse.core.jobs/3.13.200/org.eclipse.core.jobs-3.13.200.jar:/Users/matias/.m2/repository/org/eclipse/platform/org.eclipse.equinox.registry/3.11.200/org.eclipse.equinox.registry-3.11.200.jar:/Users/matias/.m2/repository/org/eclipse/platform/org.eclipse.equinox.preferences/3.10.100/org.eclipse.equinox.preferences-3.10.100.jar:/Users/matias/.m2/repository/org/osgi/org.osgi.service.prefs/1.1.2/org.osgi.service.prefs-1.1.2.jar:/Users/matias/.m2/repository/org/osgi/osgi.annotation/8.0.1/osgi.annotation-8.0.1.jar:/Users/matias/.m2/repository/org/eclipse/platform/org.eclipse.core.contenttype/3.8.200/org.eclipse.core.contenttype-3.8.200.jar:/Users/matias/.m2/repository/org/eclipse/platform/org.eclipse.equinox.app/1.6.200/org.eclipse.equinox.app-1.6.200.jar:/Users/matias/.m2/repository/org/eclipse/platform/org.eclipse.core.filesystem/1.9.500/org.eclipse.core.filesystem-1.9.500.jar:/Users/matias/.m2/repository/org/eclipse/platform/org.eclipse.text/3.12.300/org.eclipse.text-3.12.300.jar:/Users/matias/.m2/repository/org/eclipse/platform/org.eclipse.core.commands/3.10.300/org.eclipse.core.commands-3.10.300.jar:/Users/matias/.m2/repository/it/unimi/dsi/fastutil/8.3.1/fastutil-8.3.1.jar:/Users/matias/.m2/repository/com/github/mpkorstanje/simmetrics-core/3.2.3/simmetrics-core-3.2.3.jar:/Users/matias/.m2/repository/commons-codec/commons-codec/1.10/commons-codec-1.10.jar:/Users/matias/develop/diff-eval/git-diff-benchmark/code/TreeDiffFormat/target/classes:/Users/matias/.m2/repository/org/apache/commons/commons-math3/3.6.1/commons-math3-3.6.1.jar:/Users/matias/.m2/repository/com/github/haifengl/smile-core/2.6.0/smile-core-2.6.0.jar:/Users/matias/.m2/repository/com/github/haifengl/smile-data/2.6.0/smile-data-2.6.0.jar:/Users/matias/.m2/repository/com/github/haifengl/smile-math/2.6.0/smile-math-2.6.0.jar:/Users/matias/.m2/repository/com/github/haifengl/smile-graph/2.6.0/smile-graph-2.6.0.jar:/Users/matias/develop/eclipse/java-2023-03/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/222/0/.cp:/Users/matias/develop/eclipse/java-2023-03/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/221/0/.cp /Library/Java/JavaVirtualMachines/jdk-17.jdk/Contents/Home
+Famework_Setup: Hyperopt TPEBridge: host localhost port 8001 cp multiple javahome /Library/Java/JavaVirtualMachines/jdk-17.jdk/Contents/Home header Best config:  tpe random_hyperopt algo_to_run hyperopt.rand/suggest nr eval 100 seed0
+Running Hyperopt algo to rub suggest max eval 100 seed 0
+
+  0%|          | 0/100 [00:00<?, ?trial/s, best loss=?]
+                                                       
+param {'space': {'ClassicGumtree_bu_minsim': 0.4, 'ClassicGumtree_bu_minsize': 400, 'ClassicGumtree_st_minprio': 5, 'ClassicGumtree_st_priocalc': 'height', 'algorithm': 'ClassicGumtree'}}
+
+  0%|          | 0/100 [00:00<?, ?trial/s, best loss=?]
+                                                       
+Receiving parameters: ClassicGumtree-bu_minsim-0.4-bu_minsize-400-st_minprio-5-st_priocalc-height 
+
+  0%|          | 0/100 [00:00<?, ?trial/s, best loss=?]
+                                                       
+Connection string: http://localhost:8001/multiple?action=run&parameters=ClassicGumtree-bu_minsim-0.4-bu_minsize-400-st_minprio-5-st_priocalc-height
+
+
+  0%|          | 0/100 [00:00<?, ?trial/s, best loss=?]
+                                                       
+Response{"parameters":"ClassicGumtree-bu_minsim-0.4-bu_minsize-400-st_minprio-5-st_priocalc-height","fitness":401.25,"values":90,"status":"ok"}
+
+  0%|          | 0/100 [00:00<?, ?trial/s, best loss=?]
+                                                       
+param {'space': {'ClassicGumtree_bu_minsim': 0.4, 'ClassicGumtree_bu_minsize': 600, 'ClassicGumtree_st_minprio': 5, 'ClassicGumtree_st_priocalc': 'height', 'algorithm': 'ClassicGumtree'}}
+
+  1%|          | 1/100 [00:00<00:01, 64.48trial/s, best loss: 401.25]
+                                                                     
+Receiving parameters: ClassicGumtree-bu_minsim-0.4-bu_minsize-600-st_minprio-5-st_priocalc-height 
+
+  1%|          | 1/100 [00:00<00:01, 64.20trial/s, best loss: 401.25]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=ClassicGumtree-bu_minsim-0.4-bu_minsize-600-st_minprio-5-st_priocalc-height
+
+
+  1%|          | 1/100 [00:00<00:01, 64.04trial/s, best loss: 401.25]
+                                                                     
+Response{"parameters":"ClassicGumtree-bu_minsim-0.4-bu_minsize-600-st_minprio-5-st_priocalc-height","fitness":320.0,"values":90,"status":"ok"}
+
+  1%|          | 1/100 [00:00<00:01, 53.75trial/s, best loss: 401.25]
+                                                                     
+param {'space': {'ClassicGumtree_bu_minsim': 0.3, 'ClassicGumtree_bu_minsize': 1500, 'ClassicGumtree_st_minprio': 2, 'ClassicGumtree_st_priocalc': 'size', 'algorithm': 'ClassicGumtree'}}
+
+  2%|▏         | 2/100 [00:00<00:00, 102.37trial/s, best loss: 320.0]
+                                                                     
+Receiving parameters: ClassicGumtree-bu_minsim-0.3-bu_minsize-1500-st_minprio-2-st_priocalc-size 
+
+  2%|▏         | 2/100 [00:00<00:00, 102.01trial/s, best loss: 320.0]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=ClassicGumtree-bu_minsim-0.3-bu_minsize-1500-st_minprio-2-st_priocalc-size
+
+
+  2%|▏         | 2/100 [00:00<00:00, 101.80trial/s, best loss: 320.0]
+                                                                     
+Response{"parameters":"ClassicGumtree-bu_minsim-0.3-bu_minsize-1500-st_minprio-2-st_priocalc-size","fitness":97.75,"values":90,"status":"ok"}
+
+  2%|▏         | 2/100 [00:00<00:01, 90.44trial/s, best loss: 320.0]
+                                                                    
+param {'space': {'SimpleGumtree_st_minprio': 1, 'SimpleGumtree_st_priocalc': 'height', 'algorithm': 'SimpleGumtree'}}
+
+  3%|▎         | 3/100 [00:00<00:00, 131.34trial/s, best loss: 97.75]
+                                                                     
+Receiving parameters: SimpleGumtree-st_minprio-1-st_priocalc-height 
+
+  3%|▎         | 3/100 [00:00<00:00, 131.04trial/s, best loss: 97.75]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=SimpleGumtree-st_minprio-1-st_priocalc-height
+
+
+  3%|▎         | 3/100 [00:00<00:00, 130.83trial/s, best loss: 97.75]
+                                                                     
+Response{"parameters":"SimpleGumtree-st_minprio-1-st_priocalc-height","fitness":106.0,"values":90,"status":"ok"}
+
+  3%|▎         | 3/100 [00:00<00:00, 117.37trial/s, best loss: 97.75]
+                                                                     
+param {'space': {'SimpleGumtree_st_minprio': 5, 'SimpleGumtree_st_priocalc': 'height', 'algorithm': 'SimpleGumtree'}}
+
+  4%|▍         | 4/100 [00:00<00:00, 151.68trial/s, best loss: 97.75]
+                                                                     
+Receiving parameters: SimpleGumtree-st_minprio-5-st_priocalc-height 
+
+  4%|▍         | 4/100 [00:00<00:00, 151.36trial/s, best loss: 97.75]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=SimpleGumtree-st_minprio-5-st_priocalc-height
+
+
+  4%|▍         | 4/100 [00:00<00:00, 151.15trial/s, best loss: 97.75]
+                                                                     
+Response{"parameters":"SimpleGumtree-st_minprio-5-st_priocalc-height","fitness":206.5,"values":90,"status":"ok"}
+
+  4%|▍         | 4/100 [00:00<00:00, 135.26trial/s, best loss: 97.75]
+                                                                     
+param {'space': {'SimpleGumtree_st_minprio': 3, 'SimpleGumtree_st_priocalc': 'height', 'algorithm': 'SimpleGumtree'}}
+
+  5%|▌         | 5/100 [00:00<00:00, 165.23trial/s, best loss: 97.75]
+                                                                     
+Receiving parameters: SimpleGumtree-st_minprio-3-st_priocalc-height 
+
+  5%|▌         | 5/100 [00:00<00:00, 165.00trial/s, best loss: 97.75]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=SimpleGumtree-st_minprio-3-st_priocalc-height
+
+
+  5%|▌         | 5/100 [00:00<00:00, 164.82trial/s, best loss: 97.75]
+                                                                     
+Response{"parameters":"SimpleGumtree-st_minprio-3-st_priocalc-height","fitness":144.75,"values":90,"status":"ok"}
+
+  5%|▌         | 5/100 [00:00<00:00, 152.40trial/s, best loss: 97.75]
+                                                                     
+param {'space': {'HybridGumtree_bu_minsize': 2000, 'HybridGumtree_st_minprio': 1, 'HybridGumtree_st_priocalc': 'height', 'algorithm': 'HybridGumtree'}}
+
+  6%|▌         | 6/100 [00:00<00:00, 178.60trial/s, best loss: 97.75]
+                                                                     
+Receiving parameters: HybridGumtree-bu_minsize-2000-st_minprio-1-st_priocalc-height 
+
+  6%|▌         | 6/100 [00:00<00:00, 178.31trial/s, best loss: 97.75]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=HybridGumtree-bu_minsize-2000-st_minprio-1-st_priocalc-height
+
+
+  6%|▌         | 6/100 [00:00<00:00, 178.11trial/s, best loss: 97.75]
+                                                                     
+Response{"parameters":"HybridGumtree-bu_minsize-2000-st_minprio-1-st_priocalc-height","fitness":102.25,"values":90,"status":"ok"}
+
+  6%|▌         | 6/100 [00:00<00:00, 165.12trial/s, best loss: 97.75]
+                                                                     
+param {'space': {'SimpleGumtree_st_minprio': 1, 'SimpleGumtree_st_priocalc': 'size', 'algorithm': 'SimpleGumtree'}}
+
+  7%|▋         | 7/100 [00:00<00:00, 188.39trial/s, best loss: 97.75]
+                                                                     
+Receiving parameters: SimpleGumtree-st_minprio-1-st_priocalc-size 
+
+  7%|▋         | 7/100 [00:00<00:00, 188.12trial/s, best loss: 97.75]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=SimpleGumtree-st_minprio-1-st_priocalc-size
+
+
+  7%|▋         | 7/100 [00:00<00:00, 187.92trial/s, best loss: 97.75]
+                                                                     
+Response{"parameters":"SimpleGumtree-st_minprio-1-st_priocalc-size","fitness":98.5,"values":90,"status":"ok"}
+
+  7%|▋         | 7/100 [00:00<00:00, 176.29trial/s, best loss: 97.75]
+                                                                     
+param {'space': {'SimpleGumtree_st_minprio': 5, 'SimpleGumtree_st_priocalc': 'height', 'algorithm': 'SimpleGumtree'}}
+
+  8%|▊         | 8/100 [00:00<00:00, 197.99trial/s, best loss: 97.75]
+                                                                     
+Receiving parameters: SimpleGumtree-st_minprio-5-st_priocalc-height 
+
+  8%|▊         | 8/100 [00:00<00:00, 197.73trial/s, best loss: 97.75]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=SimpleGumtree-st_minprio-5-st_priocalc-height
+
+
+  8%|▊         | 8/100 [00:00<00:00, 197.53trial/s, best loss: 97.75]
+                                                                     
+Response{"parameters":"SimpleGumtree-st_minprio-5-st_priocalc-height","fitness":206.5,"values":90,"status":"ok"}
+
+  8%|▊         | 8/100 [00:00<00:00, 189.61trial/s, best loss: 97.75]
+                                                                     
+param {'space': {'ClassicGumtree_bu_minsim': 0.9, 'ClassicGumtree_bu_minsize': 1000, 'ClassicGumtree_st_minprio': 3, 'ClassicGumtree_st_priocalc': 'size', 'algorithm': 'ClassicGumtree'}}
+
+  9%|▉         | 9/100 [00:00<00:00, 209.53trial/s, best loss: 97.75]
+                                                                     
+Receiving parameters: ClassicGumtree-bu_minsim-0.9-bu_minsize-1000-st_minprio-3-st_priocalc-size 
+
+  9%|▉         | 9/100 [00:00<00:00, 209.26trial/s, best loss: 97.75]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=ClassicGumtree-bu_minsim-0.9-bu_minsize-1000-st_minprio-3-st_priocalc-size
+
+
+  9%|▉         | 9/100 [00:00<00:00, 209.07trial/s, best loss: 97.75]
+                                                                     
+Response{"parameters":"ClassicGumtree-bu_minsim-0.9-bu_minsize-1000-st_minprio-3-st_priocalc-size","fitness":106.0,"values":90,"status":"ok"}
+
+  9%|▉         | 9/100 [00:00<00:00, 177.60trial/s, best loss: 97.75]
+                                                                     
+param {'space': {'HybridGumtree_bu_minsize': 1000, 'HybridGumtree_st_minprio': 2, 'HybridGumtree_st_priocalc': 'size', 'algorithm': 'HybridGumtree'}}
+
+ 10%|█         | 10/100 [00:00<00:00, 193.73trial/s, best loss: 97.75]
+                                                                      
+Receiving parameters: HybridGumtree-bu_minsize-1000-st_minprio-2-st_priocalc-size 
+
+ 10%|█         | 10/100 [00:00<00:00, 193.49trial/s, best loss: 97.75]
+                                                                      
+Connection string: http://localhost:8001/multiple?action=run&parameters=HybridGumtree-bu_minsize-1000-st_minprio-2-st_priocalc-size
+
+
+ 10%|█         | 10/100 [00:00<00:00, 193.35trial/s, best loss: 97.75]
+                                                                      
+Response{"parameters":"HybridGumtree-bu_minsize-1000-st_minprio-2-st_priocalc-size","fitness":97.75,"values":90,"status":"ok"}
+
+ 10%|█         | 10/100 [00:00<00:00, 183.70trial/s, best loss: 97.75]
+                                                                      
+param {'space': {'ClassicGumtree_bu_minsim': 0.3, 'ClassicGumtree_bu_minsize': 1200, 'ClassicGumtree_st_minprio': 4, 'ClassicGumtree_st_priocalc': 'height', 'algorithm': 'ClassicGumtree'}}
+
+ 11%|█         | 11/100 [00:00<00:00, 199.55trial/s, best loss: 97.75]
+                                                                      
+Receiving parameters: ClassicGumtree-bu_minsim-0.3-bu_minsize-1200-st_minprio-4-st_priocalc-height 
+
+ 11%|█         | 11/100 [00:00<00:00, 199.38trial/s, best loss: 97.75]
+                                                                      
+Connection string: http://localhost:8001/multiple?action=run&parameters=ClassicGumtree-bu_minsim-0.3-bu_minsize-1200-st_minprio-4-st_priocalc-height
+
+
+ 11%|█         | 11/100 [00:00<00:00, 199.25trial/s, best loss: 97.75]
+                                                                      
+Response{"parameters":"ClassicGumtree-bu_minsim-0.3-bu_minsize-1200-st_minprio-4-st_priocalc-height","fitness":184.0,"values":90,"status":"ok"}
+
+ 11%|█         | 11/100 [00:00<00:00, 189.03trial/s, best loss: 97.75]
+                                                                      
+param {'space': {'ClassicGumtree_bu_minsim': 1.0, 'ClassicGumtree_bu_minsize': 1900, 'ClassicGumtree_st_minprio': 1, 'ClassicGumtree_st_priocalc': 'height', 'algorithm': 'ClassicGumtree'}}
+
+ 12%|█▏        | 12/100 [00:00<00:00, 203.27trial/s, best loss: 97.75]
+                                                                      
+Receiving parameters: ClassicGumtree-bu_minsim-1.0-bu_minsize-1900-st_minprio-1-st_priocalc-height 
+
+ 12%|█▏        | 12/100 [00:00<00:00, 203.08trial/s, best loss: 97.75]
+                                                                      
+Connection string: http://localhost:8001/multiple?action=run&parameters=ClassicGumtree-bu_minsim-1.0-bu_minsize-1900-st_minprio-1-st_priocalc-height
+
+
+ 12%|█▏        | 12/100 [00:00<00:00, 202.95trial/s, best loss: 97.75]
+                                                                      
+Response{"parameters":"ClassicGumtree-bu_minsim-1.0-bu_minsize-1900-st_minprio-1-st_priocalc-height","fitness":106.0,"values":90,"status":"ok"}
+
+ 12%|█▏        | 12/100 [00:00<00:00, 176.30trial/s, best loss: 97.75]
+                                                                      
+param {'space': {'HybridGumtree_bu_minsize': 1700, 'HybridGumtree_st_minprio': 4, 'HybridGumtree_st_priocalc': 'height', 'algorithm': 'HybridGumtree'}}
+
+ 13%|█▎        | 13/100 [00:00<00:00, 188.65trial/s, best loss: 97.75]
+                                                                      
+Receiving parameters: HybridGumtree-bu_minsize-1700-st_minprio-4-st_priocalc-height 
+
+ 13%|█▎        | 13/100 [00:00<00:00, 188.51trial/s, best loss: 97.75]
+                                                                      
+Connection string: http://localhost:8001/multiple?action=run&parameters=HybridGumtree-bu_minsize-1700-st_minprio-4-st_priocalc-height
+
+
+ 13%|█▎        | 13/100 [00:00<00:00, 188.40trial/s, best loss: 97.75]
+                                                                      
+Response{"parameters":"HybridGumtree-bu_minsize-1700-st_minprio-4-st_priocalc-height","fitness":103.25,"values":90,"status":"ok"}
+
+ 13%|█▎        | 13/100 [00:00<00:00, 180.70trial/s, best loss: 97.75]
+                                                                      
+param {'space': {'SimpleGumtree_st_minprio': 3, 'SimpleGumtree_st_priocalc': 'height', 'algorithm': 'SimpleGumtree'}}
+
+ 14%|█▍        | 14/100 [00:00<00:00, 192.13trial/s, best loss: 97.75]
+                                                                      
+Receiving parameters: SimpleGumtree-st_minprio-3-st_priocalc-height 
+
+ 14%|█▍        | 14/100 [00:00<00:00, 191.97trial/s, best loss: 97.75]
+                                                                      
+Connection string: http://localhost:8001/multiple?action=run&parameters=SimpleGumtree-st_minprio-3-st_priocalc-height
+
+
+ 14%|█▍        | 14/100 [00:00<00:00, 191.85trial/s, best loss: 97.75]
+                                                                      
+Response{"parameters":"SimpleGumtree-st_minprio-3-st_priocalc-height","fitness":144.75,"values":90,"status":"ok"}
+
+ 14%|█▍        | 14/100 [00:00<00:00, 187.11trial/s, best loss: 97.75]
+                                                                      
+param {'space': {'HybridGumtree_bu_minsize': 1300, 'HybridGumtree_st_minprio': 5, 'HybridGumtree_st_priocalc': 'height', 'algorithm': 'HybridGumtree'}}
+
+ 15%|█▌        | 15/100 [00:00<00:00, 198.63trial/s, best loss: 97.75]
+                                                                      
+Receiving parameters: HybridGumtree-bu_minsize-1300-st_minprio-5-st_priocalc-height 
+
+ 15%|█▌        | 15/100 [00:00<00:00, 198.51trial/s, best loss: 97.75]
+                                                                      
+Connection string: http://localhost:8001/multiple?action=run&parameters=HybridGumtree-bu_minsize-1300-st_minprio-5-st_priocalc-height
+
+
+ 15%|█▌        | 15/100 [00:00<00:00, 198.41trial/s, best loss: 97.75]
+                                                                      
+Response{"parameters":"HybridGumtree-bu_minsize-1300-st_minprio-5-st_priocalc-height","fitness":103.25,"values":90,"status":"ok"}
+
+ 15%|█▌        | 15/100 [00:00<00:00, 191.91trial/s, best loss: 97.75]
+                                                                      
+param {'space': {'HybridGumtree_bu_minsize': 800, 'HybridGumtree_st_minprio': 2, 'HybridGumtree_st_priocalc': 'size', 'algorithm': 'HybridGumtree'}}
+
+ 16%|█▌        | 16/100 [00:00<00:00, 202.68trial/s, best loss: 97.75]
+                                                                      
+Receiving parameters: HybridGumtree-bu_minsize-800-st_minprio-2-st_priocalc-size 
+
+ 16%|█▌        | 16/100 [00:00<00:00, 202.51trial/s, best loss: 97.75]
+                                                                      
+Connection string: http://localhost:8001/multiple?action=run&parameters=HybridGumtree-bu_minsize-800-st_minprio-2-st_priocalc-size
+
+
+ 16%|█▌        | 16/100 [00:00<00:00, 202.39trial/s, best loss: 97.75]
+                                                                      
+Response{"parameters":"HybridGumtree-bu_minsize-800-st_minprio-2-st_priocalc-size","fitness":97.75,"values":90,"status":"ok"}
+
+ 16%|█▌        | 16/100 [00:00<00:00, 196.08trial/s, best loss: 97.75]
+                                                                      
+param {'space': {'HybridGumtree_bu_minsize': 700, 'HybridGumtree_st_minprio': 5, 'HybridGumtree_st_priocalc': 'size', 'algorithm': 'HybridGumtree'}}
+
+ 17%|█▋        | 17/100 [00:00<00:00, 206.37trial/s, best loss: 97.75]
+                                                                      
+Receiving parameters: HybridGumtree-bu_minsize-700-st_minprio-5-st_priocalc-size 
+
+ 17%|█▋        | 17/100 [00:00<00:00, 206.24trial/s, best loss: 97.75]
+                                                                      
+Connection string: http://localhost:8001/multiple?action=run&parameters=HybridGumtree-bu_minsize-700-st_minprio-5-st_priocalc-size
+
+
+ 17%|█▋        | 17/100 [00:00<00:00, 206.15trial/s, best loss: 97.75]
+                                                                      
+Response{"parameters":"HybridGumtree-bu_minsize-700-st_minprio-5-st_priocalc-size","fitness":99.25,"values":90,"status":"ok"}
+
+ 17%|█▋        | 17/100 [00:00<00:00, 200.14trial/s, best loss: 97.75]
+                                                                      
+param {'space': {'ClassicGumtree_bu_minsim': 0.9, 'ClassicGumtree_bu_minsize': 1700, 'ClassicGumtree_st_minprio': 4, 'ClassicGumtree_st_priocalc': 'height', 'algorithm': 'ClassicGumtree'}}
+
+ 18%|█▊        | 18/100 [00:00<00:00, 209.95trial/s, best loss: 97.75]
+                                                                      
+Receiving parameters: ClassicGumtree-bu_minsim-0.9-bu_minsize-1700-st_minprio-4-st_priocalc-height 
+
+ 18%|█▊        | 18/100 [00:00<00:00, 209.83trial/s, best loss: 97.75]
+                                                                      
+Connection string: http://localhost:8001/multiple?action=run&parameters=ClassicGumtree-bu_minsim-0.9-bu_minsize-1700-st_minprio-4-st_priocalc-height
+
+
+ 18%|█▊        | 18/100 [00:00<00:00, 209.74trial/s, best loss: 97.75]
+                                                                      
+Response{"parameters":"ClassicGumtree-bu_minsim-0.9-bu_minsize-1700-st_minprio-4-st_priocalc-height","fitness":130.0,"values":90,"status":"ok"}
+
+ 18%|█▊        | 18/100 [00:00<00:00, 202.62trial/s, best loss: 97.75]
+                                                                      
+param {'space': {'SimpleGumtree_st_minprio': 1, 'SimpleGumtree_st_priocalc': 'size', 'algorithm': 'SimpleGumtree'}}
+
+ 19%|█▉        | 19/100 [00:00<00:00, 212.08trial/s, best loss: 97.75]
+                                                                      
+Receiving parameters: SimpleGumtree-st_minprio-1-st_priocalc-size 
+
+ 19%|█▉        | 19/100 [00:00<00:00, 211.95trial/s, best loss: 97.75]
+                                                                      
+Connection string: http://localhost:8001/multiple?action=run&parameters=SimpleGumtree-st_minprio-1-st_priocalc-size
+
+
+ 19%|█▉        | 19/100 [00:00<00:00, 211.86trial/s, best loss: 97.75]
+                                                                      
+Response{"parameters":"SimpleGumtree-st_minprio-1-st_priocalc-size","fitness":98.5,"values":90,"status":"ok"}
+
+ 19%|█▉        | 19/100 [00:00<00:00, 205.12trial/s, best loss: 97.75]
+                                                                      
+param {'space': {'HybridGumtree_bu_minsize': 1300, 'HybridGumtree_st_minprio': 3, 'HybridGumtree_st_priocalc': 'height', 'algorithm': 'HybridGumtree'}}
+
+ 20%|██        | 20/100 [00:00<00:00, 214.06trial/s, best loss: 97.75]
+                                                                      
+Receiving parameters: HybridGumtree-bu_minsize-1300-st_minprio-3-st_priocalc-height 
+
+ 20%|██        | 20/100 [00:00<00:00, 213.94trial/s, best loss: 97.75]
+                                                                      
+Connection string: http://localhost:8001/multiple?action=run&parameters=HybridGumtree-bu_minsize-1300-st_minprio-3-st_priocalc-height
+
+
+ 20%|██        | 20/100 [00:00<00:00, 213.85trial/s, best loss: 97.75]
+                                                                      
+Response{"parameters":"HybridGumtree-bu_minsize-1300-st_minprio-3-st_priocalc-height","fitness":99.25,"values":90,"status":"ok"}
+
+ 20%|██        | 20/100 [00:00<00:00, 205.69trial/s, best loss: 97.75]
+                                                                      
+param {'space': {'SimpleGumtree_st_minprio': 5, 'SimpleGumtree_st_priocalc': 'height', 'algorithm': 'SimpleGumtree'}}
+
+ 21%|██        | 21/100 [00:00<00:00, 214.21trial/s, best loss: 97.75]
+                                                                      
+Receiving parameters: SimpleGumtree-st_minprio-5-st_priocalc-height 
+
+ 21%|██        | 21/100 [00:00<00:00, 214.09trial/s, best loss: 97.75]
+                                                                      
+Connection string: http://localhost:8001/multiple?action=run&parameters=SimpleGumtree-st_minprio-5-st_priocalc-height
+
+
+ 21%|██        | 21/100 [00:00<00:00, 214.01trial/s, best loss: 97.75]
+                                                                      
+Response{"parameters":"SimpleGumtree-st_minprio-5-st_priocalc-height","fitness":206.5,"values":90,"status":"ok"}
+
+ 21%|██        | 21/100 [00:00<00:00, 209.67trial/s, best loss: 97.75]
+ 22%|██▏       | 22/100 [00:00<00:00, 219.39trial/s, best loss: 97.75]
+                                                                      
+param {'space': {'ClassicGumtree_bu_minsim': 0.9, 'ClassicGumtree_bu_minsize': 1500, 'ClassicGumtree_st_minprio': 3, 'ClassicGumtree_st_priocalc': 'size', 'algorithm': 'ClassicGumtree'}}
+
+ 22%|██▏       | 22/100 [00:00<00:00, 219.39trial/s, best loss: 97.75]
+                                                                      
+Receiving parameters: ClassicGumtree-bu_minsim-0.9-bu_minsize-1500-st_minprio-3-st_priocalc-size 
+
+ 22%|██▏       | 22/100 [00:00<00:00, 219.39trial/s, best loss: 97.75]
+                                                                      
+Connection string: http://localhost:8001/multiple?action=run&parameters=ClassicGumtree-bu_minsim-0.9-bu_minsize-1500-st_minprio-3-st_priocalc-size
+
+
+ 22%|██▏       | 22/100 [00:00<00:00, 219.39trial/s, best loss: 97.75]
+                                                                      
+Response{"parameters":"ClassicGumtree-bu_minsim-0.9-bu_minsize-1500-st_minprio-3-st_priocalc-size","fitness":99.25,"values":90,"status":"ok"}
+
+ 22%|██▏       | 22/100 [00:00<00:00, 219.39trial/s, best loss: 97.75]
+                                                                      
+param {'space': {'ClassicGumtree_bu_minsim': 0.7, 'ClassicGumtree_bu_minsize': 1700, 'ClassicGumtree_st_minprio': 1, 'ClassicGumtree_st_priocalc': 'size', 'algorithm': 'ClassicGumtree'}}
+
+ 23%|██▎       | 23/100 [00:00<00:00, 219.39trial/s, best loss: 97.75]
+                                                                      
+Receiving parameters: ClassicGumtree-bu_minsim-0.7-bu_minsize-1700-st_minprio-1-st_priocalc-size 
+
+ 23%|██▎       | 23/100 [00:00<00:00, 219.39trial/s, best loss: 97.75]
+                                                                      
+Connection string: http://localhost:8001/multiple?action=run&parameters=ClassicGumtree-bu_minsim-0.7-bu_minsize-1700-st_minprio-1-st_priocalc-size
+
+
+ 23%|██▎       | 23/100 [00:00<00:00, 219.39trial/s, best loss: 97.75]
+                                                                      
+Response{"parameters":"ClassicGumtree-bu_minsim-0.7-bu_minsize-1700-st_minprio-1-st_priocalc-size","fitness":97.0,"values":90,"status":"ok"}
+
+ 23%|██▎       | 23/100 [00:00<00:00, 219.39trial/s, best loss: 97.75]
+                                                                      
+param {'space': {'HybridGumtree_bu_minsize': 200, 'HybridGumtree_st_minprio': 1, 'HybridGumtree_st_priocalc': 'height', 'algorithm': 'HybridGumtree'}}
+
+ 24%|██▍       | 24/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+Receiving parameters: HybridGumtree-bu_minsize-200-st_minprio-1-st_priocalc-height 
+
+ 24%|██▍       | 24/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=HybridGumtree-bu_minsize-200-st_minprio-1-st_priocalc-height
+
+
+ 24%|██▍       | 24/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+Response{"parameters":"HybridGumtree-bu_minsize-200-st_minprio-1-st_priocalc-height","fitness":97.75,"values":90,"status":"ok"}
+
+ 24%|██▍       | 24/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+param {'space': {'ClassicGumtree_bu_minsim': 0.2, 'ClassicGumtree_bu_minsize': 300, 'ClassicGumtree_st_minprio': 4, 'ClassicGumtree_st_priocalc': 'size', 'algorithm': 'ClassicGumtree'}}
+
+ 25%|██▌       | 25/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+Receiving parameters: ClassicGumtree-bu_minsim-0.2-bu_minsize-300-st_minprio-4-st_priocalc-size 
+
+ 25%|██▌       | 25/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=ClassicGumtree-bu_minsim-0.2-bu_minsize-300-st_minprio-4-st_priocalc-size
+
+
+ 25%|██▌       | 25/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+Response{"parameters":"ClassicGumtree-bu_minsim-0.2-bu_minsize-300-st_minprio-4-st_priocalc-size","fitness":170.5,"values":90,"status":"ok"}
+
+ 25%|██▌       | 25/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+param {'space': {'HybridGumtree_bu_minsize': 1200, 'HybridGumtree_st_minprio': 3, 'HybridGumtree_st_priocalc': 'size', 'algorithm': 'HybridGumtree'}}
+
+ 26%|██▌       | 26/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+Receiving parameters: HybridGumtree-bu_minsize-1200-st_minprio-3-st_priocalc-size 
+
+ 26%|██▌       | 26/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=HybridGumtree-bu_minsize-1200-st_minprio-3-st_priocalc-size
+
+
+ 26%|██▌       | 26/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+Response{"parameters":"HybridGumtree-bu_minsize-1200-st_minprio-3-st_priocalc-size","fitness":99.25,"values":90,"status":"ok"}
+
+ 26%|██▌       | 26/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+param {'space': {'HybridGumtree_bu_minsize': 1400, 'HybridGumtree_st_minprio': 5, 'HybridGumtree_st_priocalc': 'size', 'algorithm': 'HybridGumtree'}}
+
+ 27%|██▋       | 27/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+Receiving parameters: HybridGumtree-bu_minsize-1400-st_minprio-5-st_priocalc-size 
+
+ 27%|██▋       | 27/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=HybridGumtree-bu_minsize-1400-st_minprio-5-st_priocalc-size
+
+
+ 27%|██▋       | 27/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+Response{"parameters":"HybridGumtree-bu_minsize-1400-st_minprio-5-st_priocalc-size","fitness":99.25,"values":90,"status":"ok"}
+
+ 27%|██▋       | 27/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+param {'space': {'HybridGumtree_bu_minsize': 800, 'HybridGumtree_st_minprio': 3, 'HybridGumtree_st_priocalc': 'size', 'algorithm': 'HybridGumtree'}}
+
+ 28%|██▊       | 28/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+Receiving parameters: HybridGumtree-bu_minsize-800-st_minprio-3-st_priocalc-size 
+
+ 28%|██▊       | 28/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=HybridGumtree-bu_minsize-800-st_minprio-3-st_priocalc-size
+
+
+ 28%|██▊       | 28/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+Response{"parameters":"HybridGumtree-bu_minsize-800-st_minprio-3-st_priocalc-size","fitness":99.25,"values":90,"status":"ok"}
+
+ 28%|██▊       | 28/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+param {'space': {'SimpleGumtree_st_minprio': 4, 'SimpleGumtree_st_priocalc': 'height', 'algorithm': 'SimpleGumtree'}}
+
+ 29%|██▉       | 29/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+Receiving parameters: SimpleGumtree-st_minprio-4-st_priocalc-height 
+
+ 29%|██▉       | 29/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=SimpleGumtree-st_minprio-4-st_priocalc-height
+
+
+ 29%|██▉       | 29/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+Response{"parameters":"SimpleGumtree-st_minprio-4-st_priocalc-height","fitness":170.75,"values":90,"status":"ok"}
+
+ 29%|██▉       | 29/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+param {'space': {'HybridGumtree_bu_minsize': 1600, 'HybridGumtree_st_minprio': 1, 'HybridGumtree_st_priocalc': 'size', 'algorithm': 'HybridGumtree'}}
+
+ 30%|███       | 30/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+Receiving parameters: HybridGumtree-bu_minsize-1600-st_minprio-1-st_priocalc-size 
+
+ 30%|███       | 30/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=HybridGumtree-bu_minsize-1600-st_minprio-1-st_priocalc-size
+
+
+ 30%|███       | 30/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+Response{"parameters":"HybridGumtree-bu_minsize-1600-st_minprio-1-st_priocalc-size","fitness":97.0,"values":90,"status":"ok"}
+
+ 30%|███       | 30/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+param {'space': {'HybridGumtree_bu_minsize': 1900, 'HybridGumtree_st_minprio': 3, 'HybridGumtree_st_priocalc': 'size', 'algorithm': 'HybridGumtree'}}
+
+ 31%|███       | 31/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+Receiving parameters: HybridGumtree-bu_minsize-1900-st_minprio-3-st_priocalc-size 
+
+ 31%|███       | 31/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=HybridGumtree-bu_minsize-1900-st_minprio-3-st_priocalc-size
+
+
+ 31%|███       | 31/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+Response{"parameters":"HybridGumtree-bu_minsize-1900-st_minprio-3-st_priocalc-size","fitness":99.25,"values":90,"status":"ok"}
+
+ 31%|███       | 31/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+param {'space': {'SimpleGumtree_st_minprio': 5, 'SimpleGumtree_st_priocalc': 'size', 'algorithm': 'SimpleGumtree'}}
+
+ 32%|███▏      | 32/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+Receiving parameters: SimpleGumtree-st_minprio-5-st_priocalc-size 
+
+ 32%|███▏      | 32/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=SimpleGumtree-st_minprio-5-st_priocalc-size
+
+
+ 32%|███▏      | 32/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+Response{"parameters":"SimpleGumtree-st_minprio-5-st_priocalc-size","fitness":106.5,"values":90,"status":"ok"}
+
+ 32%|███▏      | 32/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+param {'space': {'HybridGumtree_bu_minsize': 800, 'HybridGumtree_st_minprio': 4, 'HybridGumtree_st_priocalc': 'size', 'algorithm': 'HybridGumtree'}}
+
+ 33%|███▎      | 33/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+Receiving parameters: HybridGumtree-bu_minsize-800-st_minprio-4-st_priocalc-size 
+
+ 33%|███▎      | 33/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=HybridGumtree-bu_minsize-800-st_minprio-4-st_priocalc-size
+
+
+ 33%|███▎      | 33/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+Response{"parameters":"HybridGumtree-bu_minsize-800-st_minprio-4-st_priocalc-size","fitness":99.25,"values":90,"status":"ok"}
+
+ 33%|███▎      | 33/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+param {'space': {'SimpleGumtree_st_minprio': 4, 'SimpleGumtree_st_priocalc': 'size', 'algorithm': 'SimpleGumtree'}}
+
+ 34%|███▍      | 34/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+Receiving parameters: SimpleGumtree-st_minprio-4-st_priocalc-size 
+
+ 34%|███▍      | 34/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=SimpleGumtree-st_minprio-4-st_priocalc-size
+
+
+ 34%|███▍      | 34/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+Response{"parameters":"SimpleGumtree-st_minprio-4-st_priocalc-size","fitness":106.5,"values":90,"status":"ok"}
+
+ 34%|███▍      | 34/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+param {'space': {'ClassicGumtree_bu_minsim': 1.0, 'ClassicGumtree_bu_minsize': 200, 'ClassicGumtree_st_minprio': 2, 'ClassicGumtree_st_priocalc': 'height', 'algorithm': 'ClassicGumtree'}}
+
+ 35%|███▌      | 35/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+Receiving parameters: ClassicGumtree-bu_minsim-1.0-bu_minsize-200-st_minprio-2-st_priocalc-height 
+
+ 35%|███▌      | 35/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=ClassicGumtree-bu_minsim-1.0-bu_minsize-200-st_minprio-2-st_priocalc-height
+
+
+ 35%|███▌      | 35/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+Response{"parameters":"ClassicGumtree-bu_minsim-1.0-bu_minsize-200-st_minprio-2-st_priocalc-height","fitness":224.5,"values":90,"status":"ok"}
+
+ 35%|███▌      | 35/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+param {'space': {'HybridGumtree_bu_minsize': 1400, 'HybridGumtree_st_minprio': 2, 'HybridGumtree_st_priocalc': 'height', 'algorithm': 'HybridGumtree'}}
+
+ 36%|███▌      | 36/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+Receiving parameters: HybridGumtree-bu_minsize-1400-st_minprio-2-st_priocalc-height 
+
+ 36%|███▌      | 36/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=HybridGumtree-bu_minsize-1400-st_minprio-2-st_priocalc-height
+
+
+ 36%|███▌      | 36/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+Response{"parameters":"HybridGumtree-bu_minsize-1400-st_minprio-2-st_priocalc-height","fitness":99.25,"values":90,"status":"ok"}
+
+ 36%|███▌      | 36/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+param {'space': {'SimpleGumtree_st_minprio': 1, 'SimpleGumtree_st_priocalc': 'height', 'algorithm': 'SimpleGumtree'}}
+
+ 37%|███▋      | 37/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+Receiving parameters: SimpleGumtree-st_minprio-1-st_priocalc-height 
+
+ 37%|███▋      | 37/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=SimpleGumtree-st_minprio-1-st_priocalc-height
+
+
+ 37%|███▋      | 37/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+Response{"parameters":"SimpleGumtree-st_minprio-1-st_priocalc-height","fitness":106.0,"values":90,"status":"ok"}
+
+ 37%|███▋      | 37/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+param {'space': {'HybridGumtree_bu_minsize': 2000, 'HybridGumtree_st_minprio': 4, 'HybridGumtree_st_priocalc': 'height', 'algorithm': 'HybridGumtree'}}
+
+ 38%|███▊      | 38/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+Receiving parameters: HybridGumtree-bu_minsize-2000-st_minprio-4-st_priocalc-height 
+
+ 38%|███▊      | 38/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=HybridGumtree-bu_minsize-2000-st_minprio-4-st_priocalc-height
+
+
+ 38%|███▊      | 38/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+Response{"parameters":"HybridGumtree-bu_minsize-2000-st_minprio-4-st_priocalc-height","fitness":103.25,"values":90,"status":"ok"}
+
+ 38%|███▊      | 38/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+param {'space': {'HybridGumtree_bu_minsize': 1600, 'HybridGumtree_st_minprio': 2, 'HybridGumtree_st_priocalc': 'height', 'algorithm': 'HybridGumtree'}}
+
+ 39%|███▉      | 39/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+Receiving parameters: HybridGumtree-bu_minsize-1600-st_minprio-2-st_priocalc-height 
+
+ 39%|███▉      | 39/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=HybridGumtree-bu_minsize-1600-st_minprio-2-st_priocalc-height
+
+
+ 39%|███▉      | 39/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+Response{"parameters":"HybridGumtree-bu_minsize-1600-st_minprio-2-st_priocalc-height","fitness":99.25,"values":90,"status":"ok"}
+
+ 39%|███▉      | 39/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+param {'space': {'HybridGumtree_bu_minsize': 400, 'HybridGumtree_st_minprio': 5, 'HybridGumtree_st_priocalc': 'height', 'algorithm': 'HybridGumtree'}}
+
+ 40%|████      | 40/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+Receiving parameters: HybridGumtree-bu_minsize-400-st_minprio-5-st_priocalc-height 
+
+ 40%|████      | 40/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=HybridGumtree-bu_minsize-400-st_minprio-5-st_priocalc-height
+
+
+ 40%|████      | 40/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+Response{"parameters":"HybridGumtree-bu_minsize-400-st_minprio-5-st_priocalc-height","fitness":127.75,"values":90,"status":"ok"}
+
+ 40%|████      | 40/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+param {'space': {'HybridGumtree_bu_minsize': 900, 'HybridGumtree_st_minprio': 4, 'HybridGumtree_st_priocalc': 'size', 'algorithm': 'HybridGumtree'}}
+
+ 41%|████      | 41/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+Receiving parameters: HybridGumtree-bu_minsize-900-st_minprio-4-st_priocalc-size 
+
+ 41%|████      | 41/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=HybridGumtree-bu_minsize-900-st_minprio-4-st_priocalc-size
+
+
+ 41%|████      | 41/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+Response{"parameters":"HybridGumtree-bu_minsize-900-st_minprio-4-st_priocalc-size","fitness":99.25,"values":90,"status":"ok"}
+
+ 41%|████      | 41/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+param {'space': {'HybridGumtree_bu_minsize': 700, 'HybridGumtree_st_minprio': 2, 'HybridGumtree_st_priocalc': 'size', 'algorithm': 'HybridGumtree'}}
+
+ 42%|████▏     | 42/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+Receiving parameters: HybridGumtree-bu_minsize-700-st_minprio-2-st_priocalc-size 
+
+ 42%|████▏     | 42/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=HybridGumtree-bu_minsize-700-st_minprio-2-st_priocalc-size
+
+
+ 42%|████▏     | 42/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+Response{"parameters":"HybridGumtree-bu_minsize-700-st_minprio-2-st_priocalc-size","fitness":97.75,"values":90,"status":"ok"}
+
+ 42%|████▏     | 42/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+param {'space': {'HybridGumtree_bu_minsize': 700, 'HybridGumtree_st_minprio': 2, 'HybridGumtree_st_priocalc': 'size', 'algorithm': 'HybridGumtree'}}
+
+ 43%|████▎     | 43/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+Receiving parameters: HybridGumtree-bu_minsize-700-st_minprio-2-st_priocalc-size 
+
+ 43%|████▎     | 43/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=HybridGumtree-bu_minsize-700-st_minprio-2-st_priocalc-size
+
+
+ 43%|████▎     | 43/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+Response{"parameters":"HybridGumtree-bu_minsize-700-st_minprio-2-st_priocalc-size","fitness":97.75,"values":90,"status":"ok"}
+
+ 43%|████▎     | 43/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+param {'space': {'ClassicGumtree_bu_minsim': 1.0, 'ClassicGumtree_bu_minsize': 1400, 'ClassicGumtree_st_minprio': 4, 'ClassicGumtree_st_priocalc': 'size', 'algorithm': 'ClassicGumtree'}}
+
+ 44%|████▍     | 44/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+Receiving parameters: ClassicGumtree-bu_minsim-1.0-bu_minsize-1400-st_minprio-4-st_priocalc-size 
+
+ 44%|████▍     | 44/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=ClassicGumtree-bu_minsim-1.0-bu_minsize-1400-st_minprio-4-st_priocalc-size
+
+
+ 44%|████▍     | 44/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+Response{"parameters":"ClassicGumtree-bu_minsim-1.0-bu_minsize-1400-st_minprio-4-st_priocalc-size","fitness":140.25,"values":90,"status":"ok"}
+
+ 44%|████▍     | 44/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+param {'space': {'SimpleGumtree_st_minprio': 5, 'SimpleGumtree_st_priocalc': 'height', 'algorithm': 'SimpleGumtree'}}
+
+ 45%|████▌     | 45/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+Receiving parameters: SimpleGumtree-st_minprio-5-st_priocalc-height 
+
+ 45%|████▌     | 45/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=SimpleGumtree-st_minprio-5-st_priocalc-height
+
+
+ 45%|████▌     | 45/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+Response{"parameters":"SimpleGumtree-st_minprio-5-st_priocalc-height","fitness":206.5,"values":90,"status":"ok"}
+
+ 45%|████▌     | 45/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+param {'space': {'ClassicGumtree_bu_minsim': 0.3, 'ClassicGumtree_bu_minsize': 1100, 'ClassicGumtree_st_minprio': 2, 'ClassicGumtree_st_priocalc': 'size', 'algorithm': 'ClassicGumtree'}}
+
+ 46%|████▌     | 46/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+Receiving parameters: ClassicGumtree-bu_minsim-0.3-bu_minsize-1100-st_minprio-2-st_priocalc-size 
+
+ 46%|████▌     | 46/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=ClassicGumtree-bu_minsim-0.3-bu_minsize-1100-st_minprio-2-st_priocalc-size
+
+
+ 46%|████▌     | 46/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+Response{"parameters":"ClassicGumtree-bu_minsim-0.3-bu_minsize-1100-st_minprio-2-st_priocalc-size","fitness":97.75,"values":90,"status":"ok"}
+
+ 46%|████▌     | 46/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+param {'space': {'HybridGumtree_bu_minsize': 1200, 'HybridGumtree_st_minprio': 5, 'HybridGumtree_st_priocalc': 'height', 'algorithm': 'HybridGumtree'}}
+
+ 47%|████▋     | 47/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+Receiving parameters: HybridGumtree-bu_minsize-1200-st_minprio-5-st_priocalc-height 
+
+ 47%|████▋     | 47/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=HybridGumtree-bu_minsize-1200-st_minprio-5-st_priocalc-height
+
+
+ 47%|████▋     | 47/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+Response{"parameters":"HybridGumtree-bu_minsize-1200-st_minprio-5-st_priocalc-height","fitness":103.25,"values":90,"status":"ok"}
+
+ 47%|████▋     | 47/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+param {'space': {'SimpleGumtree_st_minprio': 4, 'SimpleGumtree_st_priocalc': 'size', 'algorithm': 'SimpleGumtree'}}
+
+ 48%|████▊     | 48/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+Receiving parameters: SimpleGumtree-st_minprio-4-st_priocalc-size 
+
+ 48%|████▊     | 48/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=SimpleGumtree-st_minprio-4-st_priocalc-size
+
+
+ 48%|████▊     | 48/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+Response{"parameters":"SimpleGumtree-st_minprio-4-st_priocalc-size","fitness":106.5,"values":90,"status":"ok"}
+
+ 48%|████▊     | 48/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+param {'space': {'HybridGumtree_bu_minsize': 1700, 'HybridGumtree_st_minprio': 1, 'HybridGumtree_st_priocalc': 'height', 'algorithm': 'HybridGumtree'}}
+
+ 49%|████▉     | 49/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+Receiving parameters: HybridGumtree-bu_minsize-1700-st_minprio-1-st_priocalc-height 
+
+ 49%|████▉     | 49/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=HybridGumtree-bu_minsize-1700-st_minprio-1-st_priocalc-height
+
+
+ 49%|████▉     | 49/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+                                                                     
+Response{"parameters":"HybridGumtree-bu_minsize-1700-st_minprio-1-st_priocalc-height","fitness":97.75,"values":90,"status":"ok"}
+
+ 49%|████▉     | 49/100 [00:00<00:00, 219.39trial/s, best loss: 97.0]
+ 50%|█████     | 50/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+param {'space': {'ClassicGumtree_bu_minsim': 0.4, 'ClassicGumtree_bu_minsize': 700, 'ClassicGumtree_st_minprio': 1, 'ClassicGumtree_st_priocalc': 'size', 'algorithm': 'ClassicGumtree'}}
+
+ 50%|█████     | 50/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Receiving parameters: ClassicGumtree-bu_minsim-0.4-bu_minsize-700-st_minprio-1-st_priocalc-size 
+
+ 50%|█████     | 50/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=ClassicGumtree-bu_minsim-0.4-bu_minsize-700-st_minprio-1-st_priocalc-size
+
+
+ 50%|█████     | 50/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Response{"parameters":"ClassicGumtree-bu_minsim-0.4-bu_minsize-700-st_minprio-1-st_priocalc-size","fitness":97.0,"values":90,"status":"ok"}
+
+ 50%|█████     | 50/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+param {'space': {'SimpleGumtree_st_minprio': 4, 'SimpleGumtree_st_priocalc': 'size', 'algorithm': 'SimpleGumtree'}}
+
+ 51%|█████     | 51/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Receiving parameters: SimpleGumtree-st_minprio-4-st_priocalc-size 
+
+ 51%|█████     | 51/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=SimpleGumtree-st_minprio-4-st_priocalc-size
+
+
+ 51%|█████     | 51/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Response{"parameters":"SimpleGumtree-st_minprio-4-st_priocalc-size","fitness":106.5,"values":90,"status":"ok"}
+
+ 51%|█████     | 51/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+param {'space': {'SimpleGumtree_st_minprio': 2, 'SimpleGumtree_st_priocalc': 'height', 'algorithm': 'SimpleGumtree'}}
+
+ 52%|█████▏    | 52/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Receiving parameters: SimpleGumtree-st_minprio-2-st_priocalc-height 
+
+ 52%|█████▏    | 52/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=SimpleGumtree-st_minprio-2-st_priocalc-height
+
+
+ 52%|█████▏    | 52/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Response{"parameters":"SimpleGumtree-st_minprio-2-st_priocalc-height","fitness":106.5,"values":90,"status":"ok"}
+
+ 52%|█████▏    | 52/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+param {'space': {'HybridGumtree_bu_minsize': 200, 'HybridGumtree_st_minprio': 4, 'HybridGumtree_st_priocalc': 'size', 'algorithm': 'HybridGumtree'}}
+
+ 53%|█████▎    | 53/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Receiving parameters: HybridGumtree-bu_minsize-200-st_minprio-4-st_priocalc-size 
+
+ 53%|█████▎    | 53/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=HybridGumtree-bu_minsize-200-st_minprio-4-st_priocalc-size
+
+
+ 53%|█████▎    | 53/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Response{"parameters":"HybridGumtree-bu_minsize-200-st_minprio-4-st_priocalc-size","fitness":99.25,"values":90,"status":"ok"}
+
+ 53%|█████▎    | 53/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+param {'space': {'SimpleGumtree_st_minprio': 1, 'SimpleGumtree_st_priocalc': 'height', 'algorithm': 'SimpleGumtree'}}
+
+ 54%|█████▍    | 54/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Receiving parameters: SimpleGumtree-st_minprio-1-st_priocalc-height 
+
+ 54%|█████▍    | 54/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=SimpleGumtree-st_minprio-1-st_priocalc-height
+
+
+ 54%|█████▍    | 54/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Response{"parameters":"SimpleGumtree-st_minprio-1-st_priocalc-height","fitness":106.0,"values":90,"status":"ok"}
+
+ 54%|█████▍    | 54/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+param {'space': {'SimpleGumtree_st_minprio': 5, 'SimpleGumtree_st_priocalc': 'size', 'algorithm': 'SimpleGumtree'}}
+
+ 55%|█████▌    | 55/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Receiving parameters: SimpleGumtree-st_minprio-5-st_priocalc-size 
+
+ 55%|█████▌    | 55/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=SimpleGumtree-st_minprio-5-st_priocalc-size
+
+
+ 55%|█████▌    | 55/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Response{"parameters":"SimpleGumtree-st_minprio-5-st_priocalc-size","fitness":106.5,"values":90,"status":"ok"}
+
+ 55%|█████▌    | 55/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+param {'space': {'ClassicGumtree_bu_minsim': 0.2, 'ClassicGumtree_bu_minsize': 500, 'ClassicGumtree_st_minprio': 3, 'ClassicGumtree_st_priocalc': 'size', 'algorithm': 'ClassicGumtree'}}
+
+ 56%|█████▌    | 56/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Receiving parameters: ClassicGumtree-bu_minsim-0.2-bu_minsize-500-st_minprio-3-st_priocalc-size 
+
+ 56%|█████▌    | 56/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=ClassicGumtree-bu_minsim-0.2-bu_minsize-500-st_minprio-3-st_priocalc-size
+
+
+ 56%|█████▌    | 56/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Response{"parameters":"ClassicGumtree-bu_minsim-0.2-bu_minsize-500-st_minprio-3-st_priocalc-size","fitness":105.5,"values":90,"status":"ok"}
+
+ 56%|█████▌    | 56/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+param {'space': {'SimpleGumtree_st_minprio': 5, 'SimpleGumtree_st_priocalc': 'height', 'algorithm': 'SimpleGumtree'}}
+
+ 57%|█████▋    | 57/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Receiving parameters: SimpleGumtree-st_minprio-5-st_priocalc-height 
+
+ 57%|█████▋    | 57/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=SimpleGumtree-st_minprio-5-st_priocalc-height
+
+
+ 57%|█████▋    | 57/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Response{"parameters":"SimpleGumtree-st_minprio-5-st_priocalc-height","fitness":206.5,"values":90,"status":"ok"}
+
+ 57%|█████▋    | 57/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+param {'space': {'SimpleGumtree_st_minprio': 3, 'SimpleGumtree_st_priocalc': 'size', 'algorithm': 'SimpleGumtree'}}
+
+ 58%|█████▊    | 58/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Receiving parameters: SimpleGumtree-st_minprio-3-st_priocalc-size 
+
+ 58%|█████▊    | 58/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=SimpleGumtree-st_minprio-3-st_priocalc-size
+
+
+ 58%|█████▊    | 58/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Response{"parameters":"SimpleGumtree-st_minprio-3-st_priocalc-size","fitness":106.5,"values":90,"status":"ok"}
+
+ 58%|█████▊    | 58/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+param {'space': {'SimpleGumtree_st_minprio': 2, 'SimpleGumtree_st_priocalc': 'size', 'algorithm': 'SimpleGumtree'}}
+
+ 59%|█████▉    | 59/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Receiving parameters: SimpleGumtree-st_minprio-2-st_priocalc-size 
+
+ 59%|█████▉    | 59/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=SimpleGumtree-st_minprio-2-st_priocalc-size
+
+
+ 59%|█████▉    | 59/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Response{"parameters":"SimpleGumtree-st_minprio-2-st_priocalc-size","fitness":106.0,"values":90,"status":"ok"}
+
+ 59%|█████▉    | 59/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+param {'space': {'HybridGumtree_bu_minsize': 500, 'HybridGumtree_st_minprio': 3, 'HybridGumtree_st_priocalc': 'size', 'algorithm': 'HybridGumtree'}}
+
+ 60%|██████    | 60/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Receiving parameters: HybridGumtree-bu_minsize-500-st_minprio-3-st_priocalc-size 
+
+ 60%|██████    | 60/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=HybridGumtree-bu_minsize-500-st_minprio-3-st_priocalc-size
+
+
+ 60%|██████    | 60/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Response{"parameters":"HybridGumtree-bu_minsize-500-st_minprio-3-st_priocalc-size","fitness":99.25,"values":90,"status":"ok"}
+
+ 60%|██████    | 60/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+param {'space': {'SimpleGumtree_st_minprio': 3, 'SimpleGumtree_st_priocalc': 'size', 'algorithm': 'SimpleGumtree'}}
+
+ 61%|██████    | 61/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Receiving parameters: SimpleGumtree-st_minprio-3-st_priocalc-size 
+
+ 61%|██████    | 61/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=SimpleGumtree-st_minprio-3-st_priocalc-size
+
+
+ 61%|██████    | 61/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Response{"parameters":"SimpleGumtree-st_minprio-3-st_priocalc-size","fitness":106.5,"values":90,"status":"ok"}
+
+ 61%|██████    | 61/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+param {'space': {'ClassicGumtree_bu_minsim': 0.1, 'ClassicGumtree_bu_minsize': 1800, 'ClassicGumtree_st_minprio': 4, 'ClassicGumtree_st_priocalc': 'height', 'algorithm': 'ClassicGumtree'}}
+
+ 62%|██████▏   | 62/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Receiving parameters: ClassicGumtree-bu_minsim-0.1-bu_minsize-1800-st_minprio-4-st_priocalc-height 
+
+ 62%|██████▏   | 62/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=ClassicGumtree-bu_minsim-0.1-bu_minsize-1800-st_minprio-4-st_priocalc-height
+
+
+ 62%|██████▏   | 62/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Response{"parameters":"ClassicGumtree-bu_minsim-0.1-bu_minsize-1800-st_minprio-4-st_priocalc-height","fitness":130.0,"values":90,"status":"ok"}
+
+ 62%|██████▏   | 62/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+param {'space': {'ClassicGumtree_bu_minsim': 0.8, 'ClassicGumtree_bu_minsize': 1100, 'ClassicGumtree_st_minprio': 2, 'ClassicGumtree_st_priocalc': 'height', 'algorithm': 'ClassicGumtree'}}
+
+ 63%|██████▎   | 63/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Receiving parameters: ClassicGumtree-bu_minsim-0.8-bu_minsize-1100-st_minprio-2-st_priocalc-height 
+
+ 63%|██████▎   | 63/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=ClassicGumtree-bu_minsim-0.8-bu_minsize-1100-st_minprio-2-st_priocalc-height
+
+
+ 63%|██████▎   | 63/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Response{"parameters":"ClassicGumtree-bu_minsim-0.8-bu_minsize-1100-st_minprio-2-st_priocalc-height","fitness":129.0,"values":90,"status":"ok"}
+
+ 63%|██████▎   | 63/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+param {'space': {'HybridGumtree_bu_minsize': 200, 'HybridGumtree_st_minprio': 1, 'HybridGumtree_st_priocalc': 'height', 'algorithm': 'HybridGumtree'}}
+
+ 64%|██████▍   | 64/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Receiving parameters: HybridGumtree-bu_minsize-200-st_minprio-1-st_priocalc-height 
+
+ 64%|██████▍   | 64/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=HybridGumtree-bu_minsize-200-st_minprio-1-st_priocalc-height
+
+
+ 64%|██████▍   | 64/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Response{"parameters":"HybridGumtree-bu_minsize-200-st_minprio-1-st_priocalc-height","fitness":97.75,"values":90,"status":"ok"}
+
+ 64%|██████▍   | 64/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+param {'space': {'HybridGumtree_bu_minsize': 1100, 'HybridGumtree_st_minprio': 2, 'HybridGumtree_st_priocalc': 'size', 'algorithm': 'HybridGumtree'}}
+
+ 65%|██████▌   | 65/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Receiving parameters: HybridGumtree-bu_minsize-1100-st_minprio-2-st_priocalc-size 
+
+ 65%|██████▌   | 65/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=HybridGumtree-bu_minsize-1100-st_minprio-2-st_priocalc-size
+
+
+ 65%|██████▌   | 65/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Response{"parameters":"HybridGumtree-bu_minsize-1100-st_minprio-2-st_priocalc-size","fitness":97.75,"values":90,"status":"ok"}
+
+ 65%|██████▌   | 65/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+param {'space': {'ClassicGumtree_bu_minsim': 0.6, 'ClassicGumtree_bu_minsize': 2000, 'ClassicGumtree_st_minprio': 1, 'ClassicGumtree_st_priocalc': 'height', 'algorithm': 'ClassicGumtree'}}
+
+ 66%|██████▌   | 66/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Receiving parameters: ClassicGumtree-bu_minsim-0.6-bu_minsize-2000-st_minprio-1-st_priocalc-height 
+
+ 66%|██████▌   | 66/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=ClassicGumtree-bu_minsim-0.6-bu_minsize-2000-st_minprio-1-st_priocalc-height
+
+
+ 66%|██████▌   | 66/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Response{"parameters":"ClassicGumtree-bu_minsim-0.6-bu_minsize-2000-st_minprio-1-st_priocalc-height","fitness":97.75,"values":90,"status":"ok"}
+
+ 66%|██████▌   | 66/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+param {'space': {'ClassicGumtree_bu_minsim': 0.4, 'ClassicGumtree_bu_minsize': 600, 'ClassicGumtree_st_minprio': 3, 'ClassicGumtree_st_priocalc': 'height', 'algorithm': 'ClassicGumtree'}}
+
+ 67%|██████▋   | 67/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Receiving parameters: ClassicGumtree-bu_minsim-0.4-bu_minsize-600-st_minprio-3-st_priocalc-height 
+
+ 67%|██████▋   | 67/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=ClassicGumtree-bu_minsim-0.4-bu_minsize-600-st_minprio-3-st_priocalc-height
+
+
+ 67%|██████▋   | 67/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Response{"parameters":"ClassicGumtree-bu_minsim-0.4-bu_minsize-600-st_minprio-3-st_priocalc-height","fitness":212.5,"values":90,"status":"ok"}
+
+ 67%|██████▋   | 67/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+param {'space': {'SimpleGumtree_st_minprio': 4, 'SimpleGumtree_st_priocalc': 'size', 'algorithm': 'SimpleGumtree'}}
+
+ 68%|██████▊   | 68/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Receiving parameters: SimpleGumtree-st_minprio-4-st_priocalc-size 
+
+ 68%|██████▊   | 68/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=SimpleGumtree-st_minprio-4-st_priocalc-size
+
+
+ 68%|██████▊   | 68/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Response{"parameters":"SimpleGumtree-st_minprio-4-st_priocalc-size","fitness":106.5,"values":90,"status":"ok"}
+
+ 68%|██████▊   | 68/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+param {'space': {'ClassicGumtree_bu_minsim': 0.3, 'ClassicGumtree_bu_minsize': 1300, 'ClassicGumtree_st_minprio': 1, 'ClassicGumtree_st_priocalc': 'size', 'algorithm': 'ClassicGumtree'}}
+
+ 69%|██████▉   | 69/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Receiving parameters: ClassicGumtree-bu_minsim-0.3-bu_minsize-1300-st_minprio-1-st_priocalc-size 
+
+ 69%|██████▉   | 69/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=ClassicGumtree-bu_minsim-0.3-bu_minsize-1300-st_minprio-1-st_priocalc-size
+
+
+ 69%|██████▉   | 69/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Response{"parameters":"ClassicGumtree-bu_minsim-0.3-bu_minsize-1300-st_minprio-1-st_priocalc-size","fitness":97.0,"values":90,"status":"ok"}
+
+ 69%|██████▉   | 69/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+param {'space': {'SimpleGumtree_st_minprio': 5, 'SimpleGumtree_st_priocalc': 'size', 'algorithm': 'SimpleGumtree'}}
+
+ 70%|███████   | 70/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Receiving parameters: SimpleGumtree-st_minprio-5-st_priocalc-size 
+
+ 70%|███████   | 70/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=SimpleGumtree-st_minprio-5-st_priocalc-size
+
+
+ 70%|███████   | 70/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Response{"parameters":"SimpleGumtree-st_minprio-5-st_priocalc-size","fitness":106.5,"values":90,"status":"ok"}
+
+ 70%|███████   | 70/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+param {'space': {'ClassicGumtree_bu_minsim': 0.2, 'ClassicGumtree_bu_minsize': 1600, 'ClassicGumtree_st_minprio': 5, 'ClassicGumtree_st_priocalc': 'size', 'algorithm': 'ClassicGumtree'}}
+
+ 71%|███████   | 71/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Receiving parameters: ClassicGumtree-bu_minsim-0.2-bu_minsize-1600-st_minprio-5-st_priocalc-size 
+
+ 71%|███████   | 71/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=ClassicGumtree-bu_minsim-0.2-bu_minsize-1600-st_minprio-5-st_priocalc-size
+
+
+ 71%|███████   | 71/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Response{"parameters":"ClassicGumtree-bu_minsim-0.2-bu_minsize-1600-st_minprio-5-st_priocalc-size","fitness":104.0,"values":90,"status":"ok"}
+
+ 71%|███████   | 71/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+param {'space': {'SimpleGumtree_st_minprio': 4, 'SimpleGumtree_st_priocalc': 'size', 'algorithm': 'SimpleGumtree'}}
+
+ 72%|███████▏  | 72/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Receiving parameters: SimpleGumtree-st_minprio-4-st_priocalc-size 
+
+ 72%|███████▏  | 72/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=SimpleGumtree-st_minprio-4-st_priocalc-size
+
+
+ 72%|███████▏  | 72/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Response{"parameters":"SimpleGumtree-st_minprio-4-st_priocalc-size","fitness":106.5,"values":90,"status":"ok"}
+
+ 72%|███████▏  | 72/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+param {'space': {'ClassicGumtree_bu_minsim': 0.2, 'ClassicGumtree_bu_minsize': 800, 'ClassicGumtree_st_minprio': 2, 'ClassicGumtree_st_priocalc': 'size', 'algorithm': 'ClassicGumtree'}}
+
+ 73%|███████▎  | 73/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Receiving parameters: ClassicGumtree-bu_minsim-0.2-bu_minsize-800-st_minprio-2-st_priocalc-size 
+
+ 73%|███████▎  | 73/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=ClassicGumtree-bu_minsim-0.2-bu_minsize-800-st_minprio-2-st_priocalc-size
+
+
+ 73%|███████▎  | 73/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Response{"parameters":"ClassicGumtree-bu_minsim-0.2-bu_minsize-800-st_minprio-2-st_priocalc-size","fitness":97.75,"values":90,"status":"ok"}
+
+ 73%|███████▎  | 73/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+param {'space': {'HybridGumtree_bu_minsize': 400, 'HybridGumtree_st_minprio': 1, 'HybridGumtree_st_priocalc': 'size', 'algorithm': 'HybridGumtree'}}
+
+ 74%|███████▍  | 74/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Receiving parameters: HybridGumtree-bu_minsize-400-st_minprio-1-st_priocalc-size 
+
+ 74%|███████▍  | 74/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=HybridGumtree-bu_minsize-400-st_minprio-1-st_priocalc-size
+
+
+ 74%|███████▍  | 74/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Response{"parameters":"HybridGumtree-bu_minsize-400-st_minprio-1-st_priocalc-size","fitness":97.0,"values":90,"status":"ok"}
+
+ 74%|███████▍  | 74/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+param {'space': {'ClassicGumtree_bu_minsim': 1.0, 'ClassicGumtree_bu_minsize': 500, 'ClassicGumtree_st_minprio': 5, 'ClassicGumtree_st_priocalc': 'size', 'algorithm': 'ClassicGumtree'}}
+
+ 75%|███████▌  | 75/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Receiving parameters: ClassicGumtree-bu_minsim-1.0-bu_minsize-500-st_minprio-5-st_priocalc-size 
+
+ 75%|███████▌  | 75/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=ClassicGumtree-bu_minsim-1.0-bu_minsize-500-st_minprio-5-st_priocalc-size
+
+
+ 75%|███████▌  | 75/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Response{"parameters":"ClassicGumtree-bu_minsim-1.0-bu_minsize-500-st_minprio-5-st_priocalc-size","fitness":228.0,"values":90,"status":"ok"}
+
+ 75%|███████▌  | 75/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+param {'space': {'SimpleGumtree_st_minprio': 5, 'SimpleGumtree_st_priocalc': 'size', 'algorithm': 'SimpleGumtree'}}
+
+ 76%|███████▌  | 76/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Receiving parameters: SimpleGumtree-st_minprio-5-st_priocalc-size 
+
+ 76%|███████▌  | 76/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=SimpleGumtree-st_minprio-5-st_priocalc-size
+
+
+ 76%|███████▌  | 76/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Response{"parameters":"SimpleGumtree-st_minprio-5-st_priocalc-size","fitness":106.5,"values":90,"status":"ok"}
+
+ 76%|███████▌  | 76/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+param {'space': {'HybridGumtree_bu_minsize': 400, 'HybridGumtree_st_minprio': 2, 'HybridGumtree_st_priocalc': 'height', 'algorithm': 'HybridGumtree'}}
+
+ 77%|███████▋  | 77/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Receiving parameters: HybridGumtree-bu_minsize-400-st_minprio-2-st_priocalc-height 
+
+ 77%|███████▋  | 77/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=HybridGumtree-bu_minsize-400-st_minprio-2-st_priocalc-height
+
+
+ 77%|███████▋  | 77/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+                                                                     
+Response{"parameters":"HybridGumtree-bu_minsize-400-st_minprio-2-st_priocalc-height","fitness":99.25,"values":90,"status":"ok"}
+
+ 77%|███████▋  | 77/100 [00:00<00:00, 251.08trial/s, best loss: 97.0]
+ 78%|███████▊  | 78/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+param {'space': {'SimpleGumtree_st_minprio': 2, 'SimpleGumtree_st_priocalc': 'size', 'algorithm': 'SimpleGumtree'}}
+
+ 78%|███████▊  | 78/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+Receiving parameters: SimpleGumtree-st_minprio-2-st_priocalc-size 
+
+ 78%|███████▊  | 78/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=SimpleGumtree-st_minprio-2-st_priocalc-size
+
+
+ 78%|███████▊  | 78/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+Response{"parameters":"SimpleGumtree-st_minprio-2-st_priocalc-size","fitness":106.0,"values":90,"status":"ok"}
+
+ 78%|███████▊  | 78/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+param {'space': {'ClassicGumtree_bu_minsim': 0.1, 'ClassicGumtree_bu_minsize': 2000, 'ClassicGumtree_st_minprio': 1, 'ClassicGumtree_st_priocalc': 'height', 'algorithm': 'ClassicGumtree'}}
+
+ 79%|███████▉  | 79/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+Receiving parameters: ClassicGumtree-bu_minsim-0.1-bu_minsize-2000-st_minprio-1-st_priocalc-height 
+
+ 79%|███████▉  | 79/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=ClassicGumtree-bu_minsim-0.1-bu_minsize-2000-st_minprio-1-st_priocalc-height
+
+
+ 79%|███████▉  | 79/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+Response{"parameters":"ClassicGumtree-bu_minsim-0.1-bu_minsize-2000-st_minprio-1-st_priocalc-height","fitness":97.75,"values":90,"status":"ok"}
+
+ 79%|███████▉  | 79/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+param {'space': {'SimpleGumtree_st_minprio': 5, 'SimpleGumtree_st_priocalc': 'size', 'algorithm': 'SimpleGumtree'}}
+
+ 80%|████████  | 80/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+Receiving parameters: SimpleGumtree-st_minprio-5-st_priocalc-size 
+
+ 80%|████████  | 80/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=SimpleGumtree-st_minprio-5-st_priocalc-size
+
+
+ 80%|████████  | 80/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+Response{"parameters":"SimpleGumtree-st_minprio-5-st_priocalc-size","fitness":106.5,"values":90,"status":"ok"}
+
+ 80%|████████  | 80/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+param {'space': {'SimpleGumtree_st_minprio': 5, 'SimpleGumtree_st_priocalc': 'height', 'algorithm': 'SimpleGumtree'}}
+
+ 81%|████████  | 81/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+Receiving parameters: SimpleGumtree-st_minprio-5-st_priocalc-height 
+
+ 81%|████████  | 81/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=SimpleGumtree-st_minprio-5-st_priocalc-height
+
+
+ 81%|████████  | 81/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+Response{"parameters":"SimpleGumtree-st_minprio-5-st_priocalc-height","fitness":206.5,"values":90,"status":"ok"}
+
+ 81%|████████  | 81/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+param {'space': {'HybridGumtree_bu_minsize': 300, 'HybridGumtree_st_minprio': 2, 'HybridGumtree_st_priocalc': 'size', 'algorithm': 'HybridGumtree'}}
+
+ 82%|████████▏ | 82/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+Receiving parameters: HybridGumtree-bu_minsize-300-st_minprio-2-st_priocalc-size 
+
+ 82%|████████▏ | 82/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=HybridGumtree-bu_minsize-300-st_minprio-2-st_priocalc-size
+
+
+ 82%|████████▏ | 82/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+Response{"parameters":"HybridGumtree-bu_minsize-300-st_minprio-2-st_priocalc-size","fitness":97.75,"values":90,"status":"ok"}
+
+ 82%|████████▏ | 82/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+param {'space': {'HybridGumtree_bu_minsize': 700, 'HybridGumtree_st_minprio': 5, 'HybridGumtree_st_priocalc': 'height', 'algorithm': 'HybridGumtree'}}
+
+ 83%|████████▎ | 83/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+Receiving parameters: HybridGumtree-bu_minsize-700-st_minprio-5-st_priocalc-height 
+
+ 83%|████████▎ | 83/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=HybridGumtree-bu_minsize-700-st_minprio-5-st_priocalc-height
+
+
+ 83%|████████▎ | 83/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+Response{"parameters":"HybridGumtree-bu_minsize-700-st_minprio-5-st_priocalc-height","fitness":115.25,"values":90,"status":"ok"}
+
+ 83%|████████▎ | 83/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+param {'space': {'ClassicGumtree_bu_minsim': 0.2, 'ClassicGumtree_bu_minsize': 300, 'ClassicGumtree_st_minprio': 3, 'ClassicGumtree_st_priocalc': 'height', 'algorithm': 'ClassicGumtree'}}
+
+ 84%|████████▍ | 84/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+Receiving parameters: ClassicGumtree-bu_minsim-0.2-bu_minsize-300-st_minprio-3-st_priocalc-height 
+
+ 84%|████████▍ | 84/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=ClassicGumtree-bu_minsim-0.2-bu_minsize-300-st_minprio-3-st_priocalc-height
+
+
+ 84%|████████▍ | 84/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+Response{"parameters":"ClassicGumtree-bu_minsim-0.2-bu_minsize-300-st_minprio-3-st_priocalc-height","fitness":248.5,"values":90,"status":"ok"}
+
+ 84%|████████▍ | 84/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+param {'space': {'HybridGumtree_bu_minsize': 1500, 'HybridGumtree_st_minprio': 5, 'HybridGumtree_st_priocalc': 'height', 'algorithm': 'HybridGumtree'}}
+
+ 85%|████████▌ | 85/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+Receiving parameters: HybridGumtree-bu_minsize-1500-st_minprio-5-st_priocalc-height 
+
+ 85%|████████▌ | 85/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=HybridGumtree-bu_minsize-1500-st_minprio-5-st_priocalc-height
+
+
+ 85%|████████▌ | 85/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+Response{"parameters":"HybridGumtree-bu_minsize-1500-st_minprio-5-st_priocalc-height","fitness":103.25,"values":90,"status":"ok"}
+
+ 85%|████████▌ | 85/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+param {'space': {'SimpleGumtree_st_minprio': 4, 'SimpleGumtree_st_priocalc': 'size', 'algorithm': 'SimpleGumtree'}}
+
+ 86%|████████▌ | 86/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+Receiving parameters: SimpleGumtree-st_minprio-4-st_priocalc-size 
+
+ 86%|████████▌ | 86/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=SimpleGumtree-st_minprio-4-st_priocalc-size
+
+
+ 86%|████████▌ | 86/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+Response{"parameters":"SimpleGumtree-st_minprio-4-st_priocalc-size","fitness":106.5,"values":90,"status":"ok"}
+
+ 86%|████████▌ | 86/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+param {'space': {'ClassicGumtree_bu_minsim': 0.2, 'ClassicGumtree_bu_minsize': 1900, 'ClassicGumtree_st_minprio': 3, 'ClassicGumtree_st_priocalc': 'height', 'algorithm': 'ClassicGumtree'}}
+
+ 87%|████████▋ | 87/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+Receiving parameters: ClassicGumtree-bu_minsim-0.2-bu_minsize-1900-st_minprio-3-st_priocalc-height 
+
+ 87%|████████▋ | 87/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=ClassicGumtree-bu_minsim-0.2-bu_minsize-1900-st_minprio-3-st_priocalc-height
+
+
+ 87%|████████▋ | 87/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+Response{"parameters":"ClassicGumtree-bu_minsim-0.2-bu_minsize-1900-st_minprio-3-st_priocalc-height","fitness":123.0,"values":90,"status":"ok"}
+
+ 87%|████████▋ | 87/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+param {'space': {'HybridGumtree_bu_minsize': 1100, 'HybridGumtree_st_minprio': 4, 'HybridGumtree_st_priocalc': 'height', 'algorithm': 'HybridGumtree'}}
+
+ 88%|████████▊ | 88/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+Receiving parameters: HybridGumtree-bu_minsize-1100-st_minprio-4-st_priocalc-height 
+
+ 88%|████████▊ | 88/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=HybridGumtree-bu_minsize-1100-st_minprio-4-st_priocalc-height
+
+
+ 88%|████████▊ | 88/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+Response{"parameters":"HybridGumtree-bu_minsize-1100-st_minprio-4-st_priocalc-height","fitness":103.25,"values":90,"status":"ok"}
+
+ 88%|████████▊ | 88/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+param {'space': {'SimpleGumtree_st_minprio': 1, 'SimpleGumtree_st_priocalc': 'size', 'algorithm': 'SimpleGumtree'}}
+
+ 89%|████████▉ | 89/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+Receiving parameters: SimpleGumtree-st_minprio-1-st_priocalc-size 
+
+ 89%|████████▉ | 89/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=SimpleGumtree-st_minprio-1-st_priocalc-size
+
+
+ 89%|████████▉ | 89/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+Response{"parameters":"SimpleGumtree-st_minprio-1-st_priocalc-size","fitness":98.5,"values":90,"status":"ok"}
+
+ 89%|████████▉ | 89/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+param {'space': {'SimpleGumtree_st_minprio': 3, 'SimpleGumtree_st_priocalc': 'size', 'algorithm': 'SimpleGumtree'}}
+
+ 90%|█████████ | 90/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+Receiving parameters: SimpleGumtree-st_minprio-3-st_priocalc-size 
+
+ 90%|█████████ | 90/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=SimpleGumtree-st_minprio-3-st_priocalc-size
+
+
+ 90%|█████████ | 90/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+Response{"parameters":"SimpleGumtree-st_minprio-3-st_priocalc-size","fitness":106.5,"values":90,"status":"ok"}
+
+ 90%|█████████ | 90/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+param {'space': {'SimpleGumtree_st_minprio': 2, 'SimpleGumtree_st_priocalc': 'size', 'algorithm': 'SimpleGumtree'}}
+
+ 91%|█████████ | 91/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+Receiving parameters: SimpleGumtree-st_minprio-2-st_priocalc-size 
+
+ 91%|█████████ | 91/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=SimpleGumtree-st_minprio-2-st_priocalc-size
+
+
+ 91%|█████████ | 91/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+Response{"parameters":"SimpleGumtree-st_minprio-2-st_priocalc-size","fitness":106.0,"values":90,"status":"ok"}
+
+ 91%|█████████ | 91/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+param {'space': {'HybridGumtree_bu_minsize': 500, 'HybridGumtree_st_minprio': 4, 'HybridGumtree_st_priocalc': 'size', 'algorithm': 'HybridGumtree'}}
+
+ 92%|█████████▏| 92/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+Receiving parameters: HybridGumtree-bu_minsize-500-st_minprio-4-st_priocalc-size 
+
+ 92%|█████████▏| 92/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=HybridGumtree-bu_minsize-500-st_minprio-4-st_priocalc-size
+
+
+ 92%|█████████▏| 92/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+Response{"parameters":"HybridGumtree-bu_minsize-500-st_minprio-4-st_priocalc-size","fitness":99.25,"values":90,"status":"ok"}
+
+ 92%|█████████▏| 92/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+param {'space': {'HybridGumtree_bu_minsize': 100, 'HybridGumtree_st_minprio': 4, 'HybridGumtree_st_priocalc': 'size', 'algorithm': 'HybridGumtree'}}
+
+ 93%|█████████▎| 93/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+Receiving parameters: HybridGumtree-bu_minsize-100-st_minprio-4-st_priocalc-size 
+
+ 93%|█████████▎| 93/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=HybridGumtree-bu_minsize-100-st_minprio-4-st_priocalc-size
+
+
+ 93%|█████████▎| 93/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+Response{"parameters":"HybridGumtree-bu_minsize-100-st_minprio-4-st_priocalc-size","fitness":106.5,"values":90,"status":"ok"}
+
+ 93%|█████████▎| 93/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+param {'space': {'ClassicGumtree_bu_minsim': 1.0, 'ClassicGumtree_bu_minsize': 1800, 'ClassicGumtree_st_minprio': 4, 'ClassicGumtree_st_priocalc': 'height', 'algorithm': 'ClassicGumtree'}}
+
+ 94%|█████████▍| 94/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+Receiving parameters: ClassicGumtree-bu_minsim-1.0-bu_minsize-1800-st_minprio-4-st_priocalc-height 
+
+ 94%|█████████▍| 94/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=ClassicGumtree-bu_minsim-1.0-bu_minsize-1800-st_minprio-4-st_priocalc-height
+
+
+ 94%|█████████▍| 94/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+Response{"parameters":"ClassicGumtree-bu_minsim-1.0-bu_minsize-1800-st_minprio-4-st_priocalc-height","fitness":130.0,"values":90,"status":"ok"}
+
+ 94%|█████████▍| 94/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+param {'space': {'ClassicGumtree_bu_minsim': 0.4, 'ClassicGumtree_bu_minsize': 700, 'ClassicGumtree_st_minprio': 4, 'ClassicGumtree_st_priocalc': 'height', 'algorithm': 'ClassicGumtree'}}
+
+ 95%|█████████▌| 95/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+Receiving parameters: ClassicGumtree-bu_minsim-0.4-bu_minsize-700-st_minprio-4-st_priocalc-height 
+
+ 95%|█████████▌| 95/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=ClassicGumtree-bu_minsim-0.4-bu_minsize-700-st_minprio-4-st_priocalc-height
+
+
+ 95%|█████████▌| 95/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+Response{"parameters":"ClassicGumtree-bu_minsim-0.4-bu_minsize-700-st_minprio-4-st_priocalc-height","fitness":212.5,"values":90,"status":"ok"}
+
+ 95%|█████████▌| 95/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+param {'space': {'SimpleGumtree_st_minprio': 1, 'SimpleGumtree_st_priocalc': 'size', 'algorithm': 'SimpleGumtree'}}
+
+ 96%|█████████▌| 96/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+Receiving parameters: SimpleGumtree-st_minprio-1-st_priocalc-size 
+
+ 96%|█████████▌| 96/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=SimpleGumtree-st_minprio-1-st_priocalc-size
+
+
+ 96%|█████████▌| 96/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+Response{"parameters":"SimpleGumtree-st_minprio-1-st_priocalc-size","fitness":98.5,"values":90,"status":"ok"}
+
+ 96%|█████████▌| 96/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+param {'space': {'HybridGumtree_bu_minsize': 1500, 'HybridGumtree_st_minprio': 2, 'HybridGumtree_st_priocalc': 'height', 'algorithm': 'HybridGumtree'}}
+
+ 97%|█████████▋| 97/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+Receiving parameters: HybridGumtree-bu_minsize-1500-st_minprio-2-st_priocalc-height 
+
+ 97%|█████████▋| 97/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=HybridGumtree-bu_minsize-1500-st_minprio-2-st_priocalc-height
+
+
+ 97%|█████████▋| 97/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+Response{"parameters":"HybridGumtree-bu_minsize-1500-st_minprio-2-st_priocalc-height","fitness":99.25,"values":90,"status":"ok"}
+
+ 97%|█████████▋| 97/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+param {'space': {'ClassicGumtree_bu_minsim': 0.4, 'ClassicGumtree_bu_minsize': 1100, 'ClassicGumtree_st_minprio': 1, 'ClassicGumtree_st_priocalc': 'height', 'algorithm': 'ClassicGumtree'}}
+
+ 98%|█████████▊| 98/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+Receiving parameters: ClassicGumtree-bu_minsim-0.4-bu_minsize-1100-st_minprio-1-st_priocalc-height 
+
+ 98%|█████████▊| 98/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=ClassicGumtree-bu_minsim-0.4-bu_minsize-1100-st_minprio-1-st_priocalc-height
+
+
+ 98%|█████████▊| 98/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+Response{"parameters":"ClassicGumtree-bu_minsim-0.4-bu_minsize-1100-st_minprio-1-st_priocalc-height","fitness":97.75,"values":90,"status":"ok"}
+
+ 98%|█████████▊| 98/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+param {'space': {'ClassicGumtree_bu_minsim': 0.1, 'ClassicGumtree_bu_minsize': 1800, 'ClassicGumtree_st_minprio': 1, 'ClassicGumtree_st_priocalc': 'size', 'algorithm': 'ClassicGumtree'}}
+
+ 99%|█████████▉| 99/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+Receiving parameters: ClassicGumtree-bu_minsim-0.1-bu_minsize-1800-st_minprio-1-st_priocalc-size 
+
+ 99%|█████████▉| 99/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+Connection string: http://localhost:8001/multiple?action=run&parameters=ClassicGumtree-bu_minsim-0.1-bu_minsize-1800-st_minprio-1-st_priocalc-size
+
+
+ 99%|█████████▉| 99/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+                                                                     
+Response{"parameters":"ClassicGumtree-bu_minsim-0.1-bu_minsize-1800-st_minprio-1-st_priocalc-size","fitness":105.0,"values":90,"status":"ok"}
+
+ 99%|█████████▉| 99/100 [00:00<00:00, 260.79trial/s, best loss: 97.0]
+100%|██████████| 100/100 [00:00<00:00, 255.75trial/s, best loss: 97.0]
+Best config: ClassicGumtree-bu_minsim-0.7-bu_minsize-1700-st_minprio-1-st_priocalc-size
